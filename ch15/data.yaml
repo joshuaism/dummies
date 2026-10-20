@@ -1,0 +1,6 @@
+names:
+  0: laranel
+path: /content/drive/My Drive/laranel_detector
+train: images/train
+val: images/val
+test: images/test
